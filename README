@@ -5,7 +5,7 @@ even mentions your keyword it will return the thread.
 ----------------------------------------------------
 
 As prompted by the terminal, first enter the board you wish to search.
--Type 'gv as opposed to '/v/'
+-Type 'v' as opposed to '/v/'
 Then enter your keywords.It will split and search them individually. Do not put spaces!
 -Enter like so: Minecraft,minecraft,general,build
 It will create a text file in the current directory if it finds a thread and will put it there.
