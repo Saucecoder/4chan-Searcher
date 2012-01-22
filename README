@@ -1,0 +1,28 @@
+A simple 4chan searcher - Chaazd
+
+Isn't great since it picks up anything in a thread, so if anyone
+even mentions your keyword it will return the thread.
+----------------------------------------------------
+
+As prompted by the terminal, first enter the board you wish to search.
+-Type 'gv as opposed to '/v/'
+Then enter your keywords.It will split and search them individually. Do not put spaces!
+-Enter like so: Minecraft,minecraft,general,build
+It will create a text file in the current directory if it finds a thread and will put it there.
+All threads found prior will also be put into this file. I advise you clean it out after every 
+search. The reason I've done this is because there is no nice way to copy/paste things from the terminal.
+However, It will still display the results in the terminal window.
+-----------------------------------------------------
+Using 'v' as the board, and 'Minecraft,minecraft' as the keywords,
+I got this results.txt
+---
+boards.4chan.org/v/res/126143194
+boards.4chan.org/v/res/126137258
+boards.4chan.org/v/res/126145559
+boards.4chan.org/v/res/126158187
+boards.4chan.org/v/res/126146652
+boards.4chan.org/v/res/126134920
+---
+These threads will have all 404'd by the time anyone(if they do) sees this, but as you can see, it is 
+pretty efficient.
+---
